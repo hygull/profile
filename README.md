@@ -45,7 +45,7 @@ the problems.
 ## TECHNICAL SKILLS 
 
 + Languages - Python, JavaScript
-+ Frameworks - Django, Django Rest, Node, Bootstrap 3/4
++ Frameworks - Django, Django Rest, Node.js, Bootstrap 3/4
 + Frontend technologies - HTML5, CSS3
 + Databases - MySQL (can work on MongoDB if needed)
 
@@ -55,9 +55,10 @@ the problems.
 + An ability to implement customized JWT Authentication.
 + Good understanding of Frontend & Backend intergration.
 + Knowledge of Git Version Controlling Tool & POSTMAN.
-+ Can efficiently & effectively work on any JavaScript related works for adding interactivity to web pages.
++ Can efficiently & effectively work on any JavaScript related works to add interactivity to web pages.
 + Google Cloud Platform APIs (Places, Maps, Directions, GeoLocation APIs) - Combining all these to produce a single solution with the help of documentation.
-+ Can work on Data Science related tasks (If needed). 
++ Can work on Data Science related tasks (If needed).
++ Celery Daemonization. 
 
 ## Personal Website
 
