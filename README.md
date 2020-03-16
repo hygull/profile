@@ -47,6 +47,7 @@ the problems.
 + Languages - Python, JavaScript
 + Frameworks - Django, Django Rest, Node, Bootstrap 3/4
 + Frontend technologies - HTML5, CSS3
++ Databases - MySQL (can work on MongoDB if needed)
 
 ## ABILITIES
 
