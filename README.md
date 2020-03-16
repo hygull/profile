@@ -48,6 +48,16 @@ the problems.
 + Frameworks - Django, Django Rest, Node, Bootstrap 3/4
 + Frontend technologies - HTML5, CSS3
 
+## ABILITIES
+
++ An ability to modify/customize exiting Django packages, Django-db-mailer, Helpdesk etc. 
++ An ability to implement customized JWT Authentication.
++ Good understanding of Frontend & Backend intergration.
++ Knowledge of Git Version Controlling Tool & POSTMAN.
++ Can efficiently & effectively work on any JavaScript related works for adding interactivity to web pages.
++ Google Cloud Platform APIs (Places, Maps, Directions, GeoLocation APIs) - Combining all these to produce a single solution with the help of documentation.
++ Can work on Data Science related tasks (If needed). 
+
 ## Personal Website
 
 [https://rishikesh67.pythonanywhere.com](https://rishikesh67.pythonanywhere.com) is my old personal website which was last updated in 2017.
