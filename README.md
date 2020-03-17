@@ -32,9 +32,9 @@ the problems.
 
 ## PROFESSIONL PROFILE LINKS
 
-+ [StackOverflow Profile](https://stackoverflow/hygull/)
++ [StackOverflow Profile](https://stackoverflow.com/users/6615163/hygull)
 
-+ [Quora Profile](https://quora.com/)
++ [Quora Profile](https://www.quora.com/profile/Rishikesh-Agrawani)
 
 + [LinkedIn Profile](https://www.linkedin.com/in/rishikesh-agrawani-0358ba119/)
 
