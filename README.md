@@ -27,7 +27,7 @@ the problems.
 | --- | --- | --- |
 | Secondary Education | Govt. Model Higher Secondary School, Pharasgaon | 2008 |
 | Higher Seconday Education |  Govt. Model Higher Secondary School, Pharasgaon | 2010 | 
-| NIT Raipur | National Intitute Of Technology, Raipur | 2015 |
+| BTech, CSE | National Intitute Of Technology, Raipur | 2015 |
 
 
 ## PROFESSIONL PROFILE LINKS
