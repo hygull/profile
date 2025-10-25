@@ -87,7 +87,7 @@ A simple, curious, autodidact programmer with a passion for learning, exploring,
 ### **Relevance Lab Private Limited** | *Software Engineer*
 **Jun 2016 - Sep 2017** | Bangalore, India
 
-- Developed applications using Python, Node.js in an MNC environment
+- Developed applications using Python, Node.js, and Angular.js in an MNC environment
 - Worked on enterprise-level projects with focus on scalability and maintainability
 - Collaborated with international teams on DevOps and automation solutions
 
@@ -192,6 +192,12 @@ A simple, curious, autodidact programmer with a passion for learning, exploring,
 - Won first place in competitive coding hackathon
 - Demonstrated problem-solving skills and technical excellence under pressure
 
+> **TODO**: Add more details about the hackathon:
+> - Year of the event
+> - What you built
+> - Technologies used
+> - Team size or solo achievement
+
 [⬆ Back to Top](#-table-of-contents)
 
 ---
@@ -261,6 +267,19 @@ A simple, curious, autodidact programmer with a passion for learning, exploring,
 
 ---
 
+## 📜 Certifications
+
+> **TODO**: Add any relevant certifications such as:
+> - AWS Certified Developer
+> - Python Certification
+> - Django Certification
+> - Google Cloud Certification
+> - Any other relevant certificates
+
+[⬆ Back to Top](#-table-of-contents)
+
+---
+
 ## 💼 What I Bring to the Table
 
 ✅ **8.5+ years** of hands-on development experience  
@@ -280,21 +299,6 @@ A simple, curious, autodidact programmer with a passion for learning, exploring,
 I'm always interested in discussing new opportunities, collaborating on interesting projects, or simply connecting with fellow developers.
 
 **Preferred contact**: Email or LinkedIn
-
-[⬆ Back to Top](#-table-of-contents)
-
----
-
-## 📝 Additional Information
-
-> **OPTIONAL ADDITIONS**:
-> 
-> - Add soft skills (team collaboration, communication, mentorship)
-> - Include any technical blog posts or articles you've written
-> - Add any open-source contributions
-> - Mention any speaking engagements or conference participation
-> - Add references or recommendations (if applicable)
-> - Include your GitHub repository stats
 
 [⬆ Back to Top](#-table-of-contents)
 
