@@ -2,7 +2,7 @@
 
 <a href="#rishikesh-email">rishikesh0014051992@gmail.com</a>, <a href="#rishikesh-phone">+91 7975796483</a>
 
-<b>DOB</b> - <a href="rishikesh-dob">1992, May 14</a>, <b>WORK EXPERIENCE</b> - <a href="rishikesh-experience">3.5+ years</a>
+<b>DOB</b> - <a href="rishikesh-dob">1992, May 14</a>, <b>WORK EXPERIENCE</b> - <a href="rishikesh-experience">~8.5 years (As of 2025 Oct, 25)</a>
 
 > <ul><b>Brief Introduction</b><ul>
 >
@@ -20,6 +20,15 @@ the problems.
 + Sep 2017 - Jan 2018 (Bangalore, Left Job because of Stomach Ulcer and went to Native place)
 + Feb 2018 - Jan 2019 (Raipur, Chhattisgarh)
 + Jan 2019 - Present  (Bangalore)
+
+## COMPANIES I WORKED FOR
+
+- **Offline trend solutions private limited** (A service based startup based Python/Django, has been closed now)
+- **Relevance lab private limited** (An MNC based on Python, Node.js, Angular.js)
+- **Sjain Ventures limited** (A service based company based on PHP, HTML, CSS, JavaScript)
+- **Moneybloom india private limited** (FinTech company based on Python and Bootstrap)
+- **Ai Palette india private limited** (Has been acquired by GlobalData in the first quarter of year 2025)
+
 
 ## EDUCATION
 
@@ -45,7 +54,7 @@ the problems.
 ## TECHNICAL SKILLS 
 
 + Languages - Python, JavaScript
-+ Frameworks - Django, Django Rest, Node.js, Bootstrap 3/4
++ Frameworks - Django, Django Rest, Node.js, Bootstrap 3/4, Fast API
 + Frontend technologies - HTML5, CSS3
 + Databases - MySQL (can work on MongoDB if needed)
 
@@ -63,6 +72,5 @@ the problems.
 ## Personal Website
 
 [https://rishikesh67.pythonanywhere.com](https://rishikesh67.pythonanywhere.com) is my old personal website which was last updated in 2017.
-Apart from this, I have several mini sites for other works.
 
 Thank you very much.
