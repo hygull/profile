@@ -1,8 +1,8 @@
 # [Rishikesh Agrawani](https://www.linkedin.com/in/rishikesh-agrawani-0358ba119)
 
-**Full Stack Developer | Python • Django • JavaScript | Bootstrap • FastAPI**
-
 [LinkedIn](https://www.linkedin.com/in/rishikesh-agrawani-0358ba119) | [GitHub](https://github.com/hygull/) | [Stack Overflow](https://stackoverflow.com/users/6615163/hygull)
+
+---
 
 📧 rishikesh0014051992@gmail.com | 📱 +91 7975796483
 
