@@ -1,4 +1,4 @@
-# Rishikesh Agrawani
+# [Rishikesh Agrawani](https://www.linkedin.com/in/rishikesh-agrawani-0358ba119)
 
 **Full Stack Developer | Python • Django • JavaScript | AI Integration Specialist**
 
@@ -10,9 +10,28 @@
 
 ---
 
+## 📋 Table of Contents
+
+- [About Me](#-about-me)
+- [Education](#-education)
+- [Professional Experience](#-professional-experience)
+- [Technical Skills](#️-technical-skills)
+- [Core Competencies](#-core-competencies)
+- [Achievements & Recognition](#-achievements--recognition)
+- [Featured Projects](#-featured-projects)
+- [Online Presence](#-online-presence)
+- [Professional Approach](#-professional-approach)
+- [Certifications](#-certifications)
+- [What I Bring to the Table](#-what-i-bring-to-the-table)
+- [Let's Connect](#-lets-connect)
+
+---
+
 ## 👨‍💻 About Me
 
 A simple, curious, autodidact programmer with a passion for learning, exploring, and solving complex problems through elegant code. I thrive on challenges and continuously seek opportunities to expand my technical horizons. I leverage modern AI tools and traditional programming skills to deliver efficient, scalable solutions.
+
+[⬆ Back to Top](#-table-of-contents)
 
 ---
 
@@ -23,6 +42,8 @@ A simple, curious, autodidact programmer with a passion for learning, exploring,
 | **B.Tech in Computer Science & Engineering** | National Institute of Technology, Raipur | 2015 |
 | **Higher Secondary Education** | Govt. Model Higher Secondary School, Pharasgaon | 2010 |
 | **Secondary Education** | Govt. Model Higher Secondary School, Pharasgaon | 2008 |
+
+[⬆ Back to Top](#-table-of-contents)
 
 ---
 
@@ -81,6 +102,8 @@ A simple, curious, autodidact programmer with a passion for learning, exploring,
 
 *Note: Company is now closed*
 
+[⬆ Back to Top](#-table-of-contents)
+
 ---
 
 ## 🛠️ Technical Skills
@@ -126,6 +149,8 @@ A simple, curious, autodidact programmer with a passion for learning, exploring,
   - Directions API
   - Geolocation API
 
+[⬆ Back to Top](#-table-of-contents)
+
 ---
 
 ## 🚀 Core Competencies
@@ -157,6 +182,8 @@ A simple, curious, autodidact programmer with a passion for learning, exploring,
 - JWT-based authentication systems
 - Secure API development
 
+[⬆ Back to Top](#-table-of-contents)
+
 ---
 
 ## 🏆 Achievements & Recognition
@@ -170,6 +197,8 @@ A simple, curious, autodidact programmer with a passion for learning, exploring,
 > - What you built
 > - Technologies used
 > - Team size or solo achievement
+
+[⬆ Back to Top](#-table-of-contents)
 
 ---
 
@@ -203,6 +232,8 @@ A simple, curious, autodidact programmer with a passion for learning, exploring,
 - Implemented robust error handling and validation
 - Created comprehensive API documentation
 
+[⬆ Back to Top](#-table-of-contents)
+
 ---
 
 ## 🌐 Online Presence
@@ -213,6 +244,8 @@ A simple, curious, autodidact programmer with a passion for learning, exploring,
 - **Quora**: [Profile](https://www.quora.com/profile/Rishikesh-Agrawani)
 - **HackerEarth**: [Profile](https://www.hackerearth.com/@rishikesh33)
 - **Personal Website**: [rishikesh67.pythonanywhere.com](https://rishikesh67.pythonanywhere.com) *(Last updated 2017)*
+
+[⬆ Back to Top](#-table-of-contents)
 
 ---
 
@@ -230,6 +263,8 @@ A simple, curious, autodidact programmer with a passion for learning, exploring,
 - Iterative development with focus on continuous improvement
 - Balancing speed and quality in delivery
 
+[⬆ Back to Top](#-table-of-contents)
+
 ---
 
 ## 📜 Certifications
@@ -240,6 +275,8 @@ A simple, curious, autodidact programmer with a passion for learning, exploring,
 > - Django Certification
 > - Google Cloud Certification
 > - Any other relevant certificates
+
+[⬆ Back to Top](#-table-of-contents)
 
 ---
 
@@ -253,6 +290,8 @@ A simple, curious, autodidact programmer with a passion for learning, exploring,
 ✅ **Hackathon Winner** - proven problem-solving under pressure  
 ✅ **AI-Augmented Development** - efficient use of modern tools  
 
+[⬆ Back to Top](#-table-of-contents)
+
 ---
 
 ## 📫 Let's Connect!
@@ -260,6 +299,8 @@ A simple, curious, autodidact programmer with a passion for learning, exploring,
 I'm always interested in discussing new opportunities, collaborating on interesting projects, or simply connecting with fellow developers.
 
 **Preferred contact**: Email or LinkedIn
+
+[⬆ Back to Top](#-table-of-contents)
 
 ---
 
@@ -274,6 +315,12 @@ I'm always interested in discussing new opportunities, collaborating on interest
 > - Add references or recommendations (if applicable)
 > - Include your GitHub repository stats
 
+[⬆ Back to Top](#-table-of-contents)
+
 ---
 
 *Last Updated: October 25, 2025*
+
+---
+
+**[⬆ Back to Top](#-table-of-contents)**
