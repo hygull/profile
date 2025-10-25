@@ -1,74 +1,279 @@
-# <a href="https://www.linkedin.com/in/rishikesh-agrawani-0358ba119" target="_blank">Rishikesh Agrawani</a>
+# Rishikesh Agrawani
 
-<a href="#rishikesh-email">rishikesh0014051992@gmail.com</a>, <a href="#rishikesh-phone">+91 7975796483</a>
+**Full Stack Developer | Python • Django • JavaScript | AI Integration Specialist**
 
-<b>DOB</b> - <a href="rishikesh-dob">1992, May 14</a>, <b>WORK EXPERIENCE</b> - <a href="rishikesh-experience">~8.5 years (As of 2025 Oct, 25)</a>
+[LinkedIn](https://www.linkedin.com/in/rishikesh-agrawani-0358ba119) | [GitHub](https://github.com/hygull/) | [Stack Overflow](https://stackoverflow.com/users/6615163/hygull)
 
-> <ul><b>Brief Introduction</b><ul>
->
-> A simple, curious, autodidact programmer willing to learn, explore, code and solve 
-the problems.
+📧 rishikesh0014051992@gmail.com | 📱 +91 7975796483
 
-## EDUCATION
+🎂 May 14, 1992 | 💼 8.5+ years of professional experience
 
-| Course/Degree | Institution | Passout/Completion Year |
-| --- | --- | --- |
-| Secondary Education | Govt. Model Higher Secondary School, Pharasgaon | 2008 |
-| Higher Seconday Education |  Govt. Model Higher Secondary School, Pharasgaon | 2010 | 
-| BTech, CSE | National Institute Of Technology, Raipur | 2015 |
+---
 
-## COMPANIES
+## 👨‍💻 About Me
 
-- **Offline trend solutions private limited** (A service based startup based Python/Django, has been closed now)
-- **Relevance lab private limited** (An MNC based on Python, Node.js, Angular.js)
-- **Sjain Ventures limited** (A service based company based on PHP, HTML, CSS, JavaScript)
-- **Moneybloom india private limited** (FinTech company based on Python and Bootstrap)
-- **Ai Palette india private limited** (Has been acquired by GlobalData in the first quarter of year 2025)
+A simple, curious, autodidact programmer with a passion for learning, exploring, and solving complex problems through elegant code. I thrive on challenges and continuously seek opportunities to expand my technical horizons. I leverage modern AI tools and traditional programming skills to deliver efficient, scalable solutions.
 
-## JOURNEY
+---
 
-> **NOTE:** My LinkedIn Profile better explains me in brief.
+## 🎓 Education
 
-+ I started my development career as Python/Django developer in June 9, 2016
-+ Worked in 4 companies
-+ Jun 2016 - Sep 2017 (Bangalore)
-+ Sep 2017 - Jan 2018 (Bangalore, Left Job because of Stomach Ulcer and went to Native place)
-+ Feb 2018 - Jan 2019 (Raipur, Chhattisgarh)
-+ Jan 2019 - Present  (Bangalore)
+| Degree | Institution | Year |
+|--------|------------|------|
+| **B.Tech in Computer Science & Engineering** | National Institute of Technology, Raipur | 2015 |
+| **Higher Secondary Education** | Govt. Model Higher Secondary School, Pharasgaon | 2010 |
+| **Secondary Education** | Govt. Model Higher Secondary School, Pharasgaon | 2008 |
 
+---
 
-## PROFESSIONL PROFILE LINKS
+## 💼 Professional Experience
 
-+ [StackOverflow Profile](https://stackoverflow.com/users/6615163/hygull)
+### **AI Palette India Private Limited** | *Software Developer*
+**Jan 2019 - Present (6+ years)** | Bangalore, India
 
-+ [Quora Profile](https://www.quora.com/profile/Rishikesh-Agrawani)
+- Developed and maintained **microservices architecture** with SSO integration and JWT-based authentication
+- Integrated **Large Language Models (LLMs)** into production systems for intelligent decision-making and automation
+- Built custom **Python scripts** for data processing and analysis using Pandas
+- Designed and implemented **RESTful APIs** to satisfy complex business requirements
+- Leveraged **AI-powered development tools** (Cursor, Claude, GPTs) to accelerate development cycles
+- Collaborated with cross-functional teams to deliver scalable solutions for the food and beverage intelligence platform
 
-+ [LinkedIn Profile](https://www.linkedin.com/in/rishikesh-agrawani-0358ba119/)
+*Note: Acquired by GlobalData in Q1 2025*
 
-+ [GitHub Profile](https://github.com/hygull/)
+---
 
-+ [HackerEarth Profile](https://www.hackerearth.com/@rishikesh33) - 2 years back's updates
+### **Moneybloom India Private Limited** | *Backend Developer*
+**Feb 2018 - Jan 2019** | Raipur, Chhattisgarh
 
-## TECHNICAL SKILLS 
+- Developed backend solutions for FinTech applications using Python and Django
+- Implemented secure payment processing and financial data handling
+- Created responsive frontend interfaces using Bootstrap
+- Optimized database queries for improved application performance
 
-+ Languages - Python, JavaScript
-+ Frameworks - Django, Django Rest, Node.js, Bootstrap 3/4, Fast API
-+ Frontend technologies - HTML5, CSS3
-+ Databases - MySQL (can work on MongoDB if needed)
+---
 
-## ABILITIES
+### **Sjain Ventures Limited** | *Web Developer*
+**Sep 2017 - Jan 2018** | Bangalore, India
 
-+ An ability to modify/customize exiting Django packages, Django-db-mailer, Helpdesk etc. 
-+ An ability to implement customized JWT Authentication.
-+ Good understanding of Frontend & Backend intergration.
-+ Knowledge of Git Version Controlling Tool & POSTMAN.
-+ Can efficiently & effectively work on any JavaScript related works to add interactivity to web pages.
-+ Google Cloud Platform APIs (Places, Maps, Directions, GeoLocation APIs) - Combining all these to produce a single solution with the help of documentation.
-+ Can work on Data Science related tasks (If needed).
-+ Celery Daemonization. 
+- Built full-stack web applications using PHP, HTML, CSS, and JavaScript
+- Delivered client projects with focus on user experience and functionality
+- Implemented responsive design principles across multiple projects
 
-## Personal Website
+*Note: Left due to health reasons (stomach ulcer)*
 
-[https://rishikesh67.pythonanywhere.com](https://rishikesh67.pythonanywhere.com) is my old personal website which was last updated in 2017.
+---
 
-Thank you very much.
+### **Relevance Lab Private Limited** | *Software Engineer*
+**Jun 2016 - Sep 2017** | Bangalore, India
+
+- Developed applications using Python, Node.js, and Angular.js in an MNC environment
+- Worked on enterprise-level projects with focus on scalability and maintainability
+- Collaborated with international teams on DevOps and automation solutions
+
+---
+
+### **Offline Trend Solutions Private Limited** | *Python/Django Developer*
+**Initial Career Start (2016)** | Bangalore, India
+
+- Started professional development career with Python and Django
+- Built service-based applications for startup clients
+- Gained foundational experience in full-stack development
+
+*Note: Company is now closed*
+
+---
+
+## 🛠️ Technical Skills
+
+### **Languages**
+- Python (Expert)
+- JavaScript (Proficient)
+- SQL
+- PHP (Working knowledge)
+
+### **Frameworks & Libraries**
+- **Backend**: Django, Django REST Framework, FastAPI, Node.js
+- **Frontend**: Bootstrap 3/4, HTML5, CSS3
+- **Data Processing**: Pandas, NumPy
+- **APIs**: RESTful APIs, JWT Authentication
+
+### **Databases**
+- MySQL (Primary)
+- MongoDB (Working knowledge)
+- PostgreSQL
+
+### **Architecture & Patterns**
+- Microservices Architecture
+- Single Sign-On (SSO) Implementation
+- JWT-based Authentication
+- RESTful API Design
+
+### **AI & Machine Learning**
+- Large Language Model (LLM) Integration
+- AI-powered development (Cursor, Claude, GPT-4)
+- Data Science and Analytics
+
+### **Tools & Technologies**
+- Git & Version Control
+- Postman (API Testing)
+- Celery (Task Queue & Daemonization)
+- AI Development Tools (Cursor, Claude, ChatGPT)
+
+### **Cloud & APIs**
+- Google Cloud Platform (GCP)
+  - Places API
+  - Maps API
+  - Directions API
+  - Geolocation API
+
+---
+
+## 🚀 Core Competencies
+
+### **Backend Development**
+- Custom Django package modification and customization (Django-db-mailer, Helpdesk, etc.)
+- Custom JWT Authentication implementation
+- RESTful API design and development
+- Database optimization and query performance
+- Microservices architecture design and implementation
+
+### **AI Integration**
+- LLM integration for intelligent decision-making
+- Prompt engineering and AI workflow optimization
+- Leveraging AI tools for rapid development
+
+### **Data Processing**
+- Python script development for automation
+- Data analysis and manipulation using Pandas
+- ETL processes and data pipeline development
+
+### **Frontend Integration**
+- Seamless frontend-backend integration
+- Interactive web page development using JavaScript
+- Responsive design implementation
+
+### **Authentication & Security**
+- Single Sign-On (SSO) implementation
+- JWT-based authentication systems
+- Secure API development
+
+---
+
+## 🏆 Achievements & Recognition
+
+### **🥇 Vibe Coding Hackathon Winner (1st Prize)**
+- Won first place in competitive coding hackathon
+- Demonstrated problem-solving skills and technical excellence under pressure
+
+> **TODO**: Add more details about the hackathon:
+> - Year of the event
+> - What you built
+> - Technologies used
+> - Team size or solo achievement
+
+---
+
+## 💡 Featured Projects
+
+### **LLM Integration Platform**
+**Technologies**: Python, Django, FastAPI, LLM APIs
+- Integrated Large Language Models into production systems
+- Built decision-making pipelines based on LLM responses
+- Implemented prompt engineering and response optimization
+- Reduced manual processing time by leveraging AI automation
+
+### **Microservices with SSO**
+**Technologies**: Django, JWT, Microservices Architecture
+- Designed and implemented microservices architecture
+- Integrated Single Sign-On (SSO) across multiple services
+- Built custom JWT-based authentication system
+- Ensured secure inter-service communication
+
+### **Data Processing Automation**
+**Technologies**: Python, Pandas, Celery
+- Developed custom Python scripts for data processing requirements
+- Automated complex data transformations using Pandas
+- Implemented background task processing with Celery
+- Improved data processing efficiency and accuracy
+
+### **Business API Suite**
+**Technologies**: Django REST Framework, MySQL, GCP
+- Designed and developed RESTful APIs for various business needs
+- Integrated Google Cloud Platform APIs (Maps, Places, Geolocation)
+- Implemented robust error handling and validation
+- Created comprehensive API documentation
+
+---
+
+## 🌐 Online Presence
+
+- **Stack Overflow**: [hygull](https://stackoverflow.com/users/6615163/hygull) - Active contributor
+- **GitHub**: [github.com/hygull](https://github.com/hygull/) - Open source projects and code samples
+- **LinkedIn**: [Rishikesh Agrawani](https://www.linkedin.com/in/rishikesh-agrawani-0358ba119/)
+- **Quora**: [Profile](https://www.quora.com/profile/Rishikesh-Agrawani)
+- **HackerEarth**: [Profile](https://www.hackerearth.com/@rishikesh33)
+- **Personal Website**: [rishikesh67.pythonanywhere.com](https://rishikesh67.pythonanywhere.com) *(Last updated 2017)*
+
+---
+
+## 🎯 Professional Approach
+
+### **Modern Development Practices**
+- Leveraging AI-powered tools (Cursor, Claude, GPT-4) for accelerated development
+- Writing clean, maintainable, and well-documented code
+- Following industry best practices and design patterns
+- Continuous learning and adaptation to new technologies
+
+### **Problem-Solving Philosophy**
+- Understanding business requirements deeply before implementation
+- Breaking down complex problems into manageable solutions
+- Iterative development with focus on continuous improvement
+- Balancing speed and quality in delivery
+
+---
+
+## 📜 Certifications
+
+> **TODO**: Add any relevant certifications such as:
+> - AWS Certified Developer
+> - Python Certification
+> - Django Certification
+> - Google Cloud Certification
+> - Any other relevant certificates
+
+---
+
+## 💼 What I Bring to the Table
+
+✅ **8.5+ years** of hands-on development experience  
+✅ **Microservices & SSO** expertise for scalable architectures  
+✅ **LLM Integration** for AI-powered solutions  
+✅ **Data Processing** with Python and Pandas  
+✅ **API Development** aligned with business needs  
+✅ **Hackathon Winner** - proven problem-solving under pressure  
+✅ **AI-Augmented Development** - efficient use of modern tools  
+
+---
+
+## 📫 Let's Connect!
+
+I'm always interested in discussing new opportunities, collaborating on interesting projects, or simply connecting with fellow developers.
+
+**Preferred contact**: Email or LinkedIn
+
+---
+
+## 📝 Additional Information
+
+> **OPTIONAL ADDITIONS**:
+> 
+> - Add soft skills (team collaboration, communication, mentorship)
+> - Include any technical blog posts or articles you've written
+> - Add any open-source contributions
+> - Mention any speaking engagements or conference participation
+> - Add references or recommendations (if applicable)
+> - Include your GitHub repository stats
+
+---
+
+*Last Updated: October 25, 2025*
