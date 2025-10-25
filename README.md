@@ -9,8 +9,23 @@
 > A simple, curious, autodidact programmer willing to learn, explore, code and solve 
 the problems.
 
+## EDUCATION
 
-## WORK EXPERIENCE
+| Course/Degree | Institution | Passout/Completion Year |
+| --- | --- | --- |
+| Secondary Education | Govt. Model Higher Secondary School, Pharasgaon | 2008 |
+| Higher Seconday Education |  Govt. Model Higher Secondary School, Pharasgaon | 2010 | 
+| BTech, CSE | National Institute Of Technology, Raipur | 2015 |
+
+## COMPANIES
+
+- **Offline trend solutions private limited** (A service based startup based Python/Django, has been closed now)
+- **Relevance lab private limited** (An MNC based on Python, Node.js, Angular.js)
+- **Sjain Ventures limited** (A service based company based on PHP, HTML, CSS, JavaScript)
+- **Moneybloom india private limited** (FinTech company based on Python and Bootstrap)
+- **Ai Palette india private limited** (Has been acquired by GlobalData in the first quarter of year 2025)
+
+## JOURNEY
 
 > **NOTE:** My LinkedIn Profile better explains me in brief.
 
@@ -20,23 +35,6 @@ the problems.
 + Sep 2017 - Jan 2018 (Bangalore, Left Job because of Stomach Ulcer and went to Native place)
 + Feb 2018 - Jan 2019 (Raipur, Chhattisgarh)
 + Jan 2019 - Present  (Bangalore)
-
-## COMPANIES I WORKED FOR
-
-- **Offline trend solutions private limited** (A service based startup based Python/Django, has been closed now)
-- **Relevance lab private limited** (An MNC based on Python, Node.js, Angular.js)
-- **Sjain Ventures limited** (A service based company based on PHP, HTML, CSS, JavaScript)
-- **Moneybloom india private limited** (FinTech company based on Python and Bootstrap)
-- **Ai Palette india private limited** (Has been acquired by GlobalData in the first quarter of year 2025)
-
-
-## EDUCATION
-
-| Course/Degree | Institution | Passout/Completion Year |
-| --- | --- | --- |
-| Secondary Education | Govt. Model Higher Secondary School, Pharasgaon | 2008 |
-| Higher Seconday Education |  Govt. Model Higher Secondary School, Pharasgaon | 2010 | 
-| BTech, CSE | National Institute Of Technology, Raipur | 2015 |
 
 
 ## PROFESSIONL PROFILE LINKS
